@@ -1,0 +1,9 @@
+*asynccounter is merely a simultaneous double counter for
+
+*Asyncserver script that hosts a server in local machine and executes two counters concurrently and broadcasting both to all connected clients
+this is a prototype to understand approaches for real time data syncing between clients example video games.
+
+*client side receives broadcasted data and prints it.
+
+
+
